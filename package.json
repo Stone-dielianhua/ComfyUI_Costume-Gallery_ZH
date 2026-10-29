@@ -1,0 +1,16 @@
+{
+  "name": "ComfyUI_Costume-Gallery_ZH",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ComfyUI_Costume-Gallery_ZH 中文服装图库插件的开发测试",
+  "scripts": {
+    "test": "node --test tests/frontend.test.mjs",
+    "test:browser": "node tests/browser.cjs",
+    "verify:assets": "python scripts/verify.py"
+  },
+  "author": "Stone-dielianhua",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  }
+}

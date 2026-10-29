@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2026 Anhao
+Copyright (c) 2026 Stone-dielianhua
+
+适用范围 / Scope
+
+本协议仅适用于本项目的网页与 ComfyUI 插件代码、脚本、配置与说明文件。
+界面参考 https://github.com/anhao/ai-pose-gallery-zh （MIT）。
+
+data/ 中的服装原始数据与中文整理数据，以及 thumbs/、img/、png/ 中的服装图片，
+不适用本 MIT 协议。原始素材著作权归原作者 ギア 所有：
+https://ai-costume-gallery.pages.dev/
+https://x.com/giaaibusi
+
+图片与数据的使用须遵循原作者条款，禁止将图片数据本身再分发、
+转载或转售。页面中的使用条款保留原站说明，最终以原作者说明为准。
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

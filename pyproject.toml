@@ -1,0 +1,14 @@
+[project]
+name = "ComfyUI_Costume-Gallery_ZH"
+version = "1.0.0"
+description = "Offline Chinese costume gallery with image and bilingual keyword outputs for ComfyUI"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/Stone-dielianhua/ComfyUI_Costume-Gallery_ZH"
+
+[tool.comfy]
+PublisherId = "stone-dielianhua"
+DisplayName = "ComfyUI_Costume-Gallery_ZH"
+Icon = ""

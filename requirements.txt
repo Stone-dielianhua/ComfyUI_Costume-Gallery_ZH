@@ -1,0 +1,2 @@
+# Uses Pillow, numpy, torch and aiohttp already provided by ComfyUI.
+# No additional models, npm installation or downloads are needed at runtime.
