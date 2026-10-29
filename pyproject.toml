@@ -1,6 +1,6 @@
 [project]
 name = "ComfyUI_Costume-Gallery_ZH"
-version = "1.0.0"
+version = "1.0.1"
 description = "Offline Chinese costume gallery (服装图库) with 1,407 outfits, image outputs and bilingual keywords for ComfyUI"
 readme = "README.md"
 requires-python = ">=3.10"

@@ -8,6 +8,10 @@
 
 ## 安装
 
+在支持 Comfy Registry 的 **ComfyUI-Manager** 中刷新列表，搜索 `ComfyUI_Costume-Gallery_ZH` 或「服装图库」，选择安装。首次安装会从本仓库的 GitHub Release 下载约 1.42 GiB 原始素材，并校验 SHA-256；已有完整素材时跳过下载。下载仅在安装时进行，日常选图与节点执行完全离线。
+
+若安装时无法访问 GitHub，可从本仓库 `v1.0.0` Release 下载 `costume-assets-v1.0.0.zip`，解压到插件目录，使 `png/`、`img/`、`thumbs/` 与 `__init__.py` 同级。也可使用以下包含全部素材的 GitHub 安装方式：
+
 在 ComfyUI 的 `custom_nodes` 目录打开终端，执行：
 
 ```sh
